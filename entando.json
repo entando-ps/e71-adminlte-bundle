@@ -1,0 +1,9 @@
+{
+    "microservices": [],
+    "microfrontends": [],
+    "svc": [],
+    "name": "e71-adminlte-bundle",
+    "version": "0.0.3",
+    "description": "adminltebundle description",
+    "type": "bundle"
+}

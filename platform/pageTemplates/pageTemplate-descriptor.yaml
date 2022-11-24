@@ -1,0 +1,21 @@
+code: adminlte_example_pt # The page template identification
+description:  Adminlte page template # The page template description
+
+titles: # my_page_template's titles
+  en: Adminlte page template # Title in English
+  it: Adminlte page template # Title in Italian
+
+# The page template configuration
+configuration:
+  frames:
+    - pos: 0
+      description: Adminlte page template
+      mainFrame: false
+      defaultWidget: null
+      sketch:
+        x1: 0
+        y1: 0
+        x2: 11
+        y2: 1
+# Optional. Define the page template in a separate file or inside the descriptor file with `template`
+templatePath: page-template.ftl
