@@ -3,7 +3,7 @@
     "microfrontends": [],
     "svc": [],
     "name": "e71-adminlte-bundle",
-    "version": "0.0.3",
+    "version": "0.0.5",
     "description": "adminltebundle description",
     "type": "bundle"
 }
