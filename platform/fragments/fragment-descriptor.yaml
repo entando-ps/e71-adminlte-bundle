@@ -1,0 +1,5 @@
+code: adminlte_auth_fragment # Fragment name
+
+
+# Optional. A path to a FreeMarker file containing the fragment content
+guiCodePath: fragment.ftl
